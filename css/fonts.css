@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../google-fonts/Poppins-Bold.ttf),url(../google-fonts/Poppins-Light.ttf),url(../google-fonts/Poppins-Medium.ttf),url(../google-fonts/Poppins-Regular.ttf),url(../google-fonts/Poppins-ExtraBold.ttf),url(../google-fonts/Poppins-Light.ttf),url(../google-fonts/Poppins-Medium.ttf),url(../google-fonts/Poppins-Regular.ttf),url(../google-fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'Patrick Hand', cursive;
+    src: url(../google-fonts/);
+}

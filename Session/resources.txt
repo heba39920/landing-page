@@ -1,0 +1,16 @@
+color:
+https://colorhunt.co/palettes/dark
+
+flexbox:
+https://darekkay.com/flexbox-cheatsheet/
+https://codepen.io/Amr_Saker/pen/bGbZvee
+https://www.samanthaming.com/flexbox30/
+
+
+CSS BEM :
+https://bem-cheat-sheet.9elements.com/
+
+
+Extensions :
+eJOY AI Dictionary
+GlotDojo - Learn languages with movies & news
